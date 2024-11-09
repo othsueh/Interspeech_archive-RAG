@@ -1,13 +1,14 @@
 Session: Corpora-based Approaches in Automatic Emotion Recognition
-Common themes: Data augmentation, domain adaptation, confidence-aware networks, multi-level information extraction
-
-Session: Topics in Paralinguistics
-Common themes: Large language models, confidence estimation, acoustical analysis, calibration of speech models, emotion-aware representation learning
+common themes: noise robustness, unsupervised domain adaptation, cross-corpus transferability, confidence-aware learning, local prototypical mapping, multi-level information extraction
 
 Session: Emotion Recognition: Fairness, Variability, Uncertainty
-Common themes: Ambiguity-aware prediction, fairness-aware frameworks, variability modeling, uncertainty quantification
+common themes: continuous emotion prediction, fairness-aware frameworks, emotional variability modeling, prototype refinement, group versus individual fairness, uncertainty quantification, human-robot interaction in emotion recognition
 
 Session: New Avenues in Emotion Recognition
-Common themes: Inter-rater ambiguity modeling, multimodal fusion, personalization for fairness, noise-robust prediction
+common themes: inter-rater ambiguity, multimodal emotion recognition, music theory-inspired emotion recognition, personalization and fairness, noise-robust strategies, unsupervised cross-corpus adaptation
 
-Overall, recent trends in emotion recognition include a focus on data augmentation, domain adaptation, fairness, multimodal fusion, and uncertainty quantification to enhance the accuracy and robustness of emotion recognition systems. Researchers are also exploring new avenues such as inter-rater ambiguity modeling and personalization for improved individual-level fairness in emotion recognition.
+Session: Speech Emotion Recognition
+common themes: enhancing existing models, dataset distillation, dynamic noise management, text-based emotion annotation capabilities
+
+Summary of trends in emotion recognition this year:
+This year's emotion recognition research shows a strong focus on enhancing robustness and adaptability of models against noisy and varied data environments. There's an evident trend towards using advanced neural architectures like ODEs and transformers to handle continuous and ambiguous emotional states. Fairness and individual variability in emotion recognition are being addressed more rigorously, with frameworks being developed to ensure equitable outcomes across different speakers. Multimodality and cross-corpus adaptability are also major themes, indicating a move towards models that can leverage diverse data sources and function effectively across different datasets without extensive retraining. Personalization and inter-rater ambiguity management suggest a push towards more accurately capturing individual emotional expressions and perceptions, enhancing the applicability of emotion recognition systems in real-world scenarios.
