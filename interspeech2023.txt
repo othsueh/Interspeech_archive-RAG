@@ -1,0 +1,42 @@
+<format>
+Session: Speech Emotion Recognition 2
+common themes: 
+- Integration of emotion recognition with other speech processing tasks
+- Development of novel neural network architectures for emotion recognition
+- Multi-modal emotion recognition using audio and text data
+- Privacy-preserving techniques in emotion detection
+
+Session: Speech Emotion Recognition 1
+common themes: 
+- Personalized adaptation for continuous emotion recognition
+- Importance of calibration in emotion classification
+- Privacy risks in emotion recognition
+- Domain-adaptable emotion recognition
+
+Session: Speech Emotion Recognition 3
+common themes: 
+- Joint speech and emotion recognition
+- Unsupervised transfer learning for emotion recognition
+- Multimodal emotion recognition
+- Hybrid datasets for emotion recognition in different languages
+
+Session: Paralinguistics 2
+common themes: 
+- Speaker embeddings for voice stress detection
+- Contrastive learning for multi-modal emotion classification
+- Noise-robustness in emotion and speech recognition
+- Lightweight techniques for emotion recognition tasks
+- Supervised contrastive learning for emotion recognition
+
+</format>
+
+Trends in Emotion Recognition:
+- Integration of emotion recognition with other speech processing tasks
+- Development of novel neural network architectures for emotion recognition
+- Multi-modal emotion recognition using audio and text data
+- Personalized and domain-adaptable emotion recognition techniques
+- Focus on privacy-preserving methods in emotion detection
+- Emphasis on joint speech and emotion recognition
+- Exploration of unsupervised transfer learning for emotion recognition
+- Continued efforts in developing noise-robust and efficient emotion recognition models
+- Adoption of lightweight and supervised contrastive learning techniques for emotion recognition tasks.

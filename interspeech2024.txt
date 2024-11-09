@@ -1,0 +1,13 @@
+Session: Corpora-based Approaches in Automatic Emotion Recognition
+Common themes: Data augmentation, domain adaptation, confidence-aware networks, multi-level information extraction
+
+Session: Topics in Paralinguistics
+Common themes: Large language models, confidence estimation, acoustical analysis, calibration of speech models, emotion-aware representation learning
+
+Session: Emotion Recognition: Fairness, Variability, Uncertainty
+Common themes: Ambiguity-aware prediction, fairness-aware frameworks, variability modeling, uncertainty quantification
+
+Session: New Avenues in Emotion Recognition
+Common themes: Inter-rater ambiguity modeling, multimodal fusion, personalization for fairness, noise-robust prediction
+
+Overall, recent trends in emotion recognition include a focus on data augmentation, domain adaptation, fairness, multimodal fusion, and uncertainty quantification to enhance the accuracy and robustness of emotion recognition systems. Researchers are also exploring new avenues such as inter-rater ambiguity modeling and personalization for improved individual-level fairness in emotion recognition.
